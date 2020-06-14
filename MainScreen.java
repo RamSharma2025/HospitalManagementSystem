@@ -113,7 +113,7 @@ public class MainScreen extends JFrame implements ActionListener
 				}
 				if(arg.getSource()==Aboutus)
 				{
-					JOptionPane.showMessageDialog(this, "This app is created by Himanshu");
+					JOptionPane.showMessageDialog(this, "This app is created by RAMRATAN SHARMA");
 					
 					
 				}
